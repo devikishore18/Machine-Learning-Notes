@@ -31,5 +31,3 @@ By combining both theory and real-world practices, this repository acts as a str
 
 ---
 
-Feel free to fork, star, or contribute to improve the content or expand coverage into topics like Deep Learning and Model Monitoring.
-
